@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState": {
+        "breakpoints": [
+            {
+                "id": 0,
+                "path": "C:/Users/HP/Desktop/TS-clustering-using-graph/deg_unweightedGraph.R",
+                "line_number": 658,
+                "function_steps": "",
+                "function_name": "mainCall",
+                "state": 2,
+                "editor_state": 2,
+                "editor_line_number": 658,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 0,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            }
+        ]
+    }
+}
